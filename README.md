@@ -49,6 +49,6 @@
 <h3 align="left">AI & ML:</h3>
 <p align="left">
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/> </a> 
-<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://www.anthropic.com/images/claude-logo.svg" alt="claude" width="40" height="40"/> </a> 
+<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anthropic-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" alt="claude" /> </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> 
 </p>

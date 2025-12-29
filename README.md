@@ -5,17 +5,17 @@
 
 - 🌱 I'm currently learning **Advanced AI Agent Architectures, LangChain, Voice AI Integration, and Product Management**
 
-- 💻 I'm also building [My Kosher Delivery](https://mykosherdelivery.netlify.app) - A comprehensive multi-restaurant kosher food delivery platform (850+ hours, 74,000+ lines of code)
+- 💻 I recently completed [My Kosher Delivery](https://mykosherdelivery.netlify.app) - A comprehensive multi-restaurant kosher food delivery platform (850+ hours, 74,000+ lines of code). *Coming soon to mykosherdelivery.com*
 
-- 🌐 Check out my [Personal Website](https://williamglickman.com) - Continuously evolving portfolio showcasing my work
+- 🌐 I'm building my [Personal Website](https://github.com/wglickman33) - Work in progress, coming soon!
 
-- 👨‍💻 All of my projects are available at [williamglickman.com/projects](https://williamglickman.com/projects)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/wglickman33)
 
 - 💬 Ask me about **React, TypeScript, AI Agents, Voice AI, or building full-stack applications**
 
 - 📫 How to reach me **willglickman@gmail.com**
 
-- 📄 Know about my experiences [williamglickman.com/resume](https://williamglickman.com/resume)
+- 📄 Know about my experiences [my GitHub](https://github.com/wglickman33)
 
 - ⚡ Fun fact **I transitioned from neuroscience to coding in June 2024, and now I'm building AI agents that help people get into behavioral health treatment!**
 
@@ -48,7 +48,7 @@
 
 <h3 align="left">AI & ML:</h3>
 <p align="left">
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/> </a> 
-<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="anthropic" width="40" height="40"/> </a> 
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40"/> </a> 
+<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/> </a> 
+<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Anthropic_logo.svg" alt="anthropic" width="40" height="40"/> </a> 
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> 
 </p>

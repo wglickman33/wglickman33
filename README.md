@@ -48,7 +48,7 @@
 
 <h3 align="left">AI & ML:</h3>
 <p align="left">
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/> </a> 
-<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Anthropic_logo.svg" alt="anthropic" width="40" height="40"/> </a> 
+<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/> </a> 
+<a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://www.anthropic.com/images/claude-logo.svg" alt="claude" width="40" height="40"/> </a> 
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a> 
 </p>

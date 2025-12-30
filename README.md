@@ -7,7 +7,7 @@
 
 - 💻 I recently completed [My Kosher Delivery](https://mykosherdelivery.netlify.app) - A comprehensive multi-restaurant kosher food delivery platform (850+ hours, 74,000+ lines of code). *Coming soon to mykosherdelivery.com*
 
-- 🌐 I'm building my [Personal Website](https://github.com/wglickman33) - Work in progress, coming soon!
+- 🌐 I'm building my [Personal Website](https://github.com/wglickman33/personal_website) - [Check it out!](https://wglickman.com/)
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/wglickman33)
 

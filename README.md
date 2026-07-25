@@ -5,6 +5,13 @@
 Neuroscience grad turned full-stack and AI engineer. I build production AI voice and chat agents for behavioral health, and I co-founded and run the entire engineering side of a live multi-restaurant food delivery platform.
 </p>
 
+<p align="center">
+<a href="mailto:willglickman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/william-glickman" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wglickman.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/wglickman33" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
 <br>
 
 **Currently Building**
@@ -90,11 +97,4 @@ I was doing neuroscience research on non-pharmacological interventions for heroi
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wglickman33&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-<a href="mailto:willglickman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/william-glickman" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://wglickman.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/wglickman33" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>

@@ -21,7 +21,7 @@ Neuroscience grad turned full-stack and AI engineer. I build production AI voice
 - [My personal site](https://wglickman.com) → A three-zone portfolio combining a professional hub, a project lab, and a small game arcade, continuously evolving
 
 **Side Projects & Experiments**:
-- **Whisk** → A recipe management app in progress: recipe saving, grocery/shopping list generation, unit conversion, and other cooking tools
+- **Whisk** → A recipe management app in progress: recipe saving, grocery/shopping list generation, ingredient substitution, unit conversion, and other cooking tools
 - **Scout** → A live sports scoreboard app in progress, currently tracking Giants, Knicks, Mets, and Rangers scores
 
 **Currently Learning** →
@@ -51,6 +51,7 @@ I was doing neuroscience research on non-pharmacological interventions for heroi
 <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logoColor=white" alt="zustand"/>
 </p>
 
 <h3 align="left">Backend & Data</h3>
@@ -91,6 +92,7 @@ I was doing neuroscience research on non-pharmacological interventions for heroi
 <img src="https://img.shields.io/badge/Datadog-2E3440?style=flat-square&logo=datadog&logoColor=white" alt="datadog"/>
 <img src="https://img.shields.io/badge/ElevenLabs-2E3440?style=flat-square" alt="elevenlabs"/>
 <img src="https://img.shields.io/badge/RBAC-2E3440?style=flat-square" alt="rbac"/>
+<img src="https://img.shields.io/badge/Spoonacular-2E3440?style=flat-square" alt="spoonacular"/>
 </p>
 
 ---

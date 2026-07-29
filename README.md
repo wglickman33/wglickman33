@@ -21,8 +21,8 @@ Neuroscience grad turned full-stack and AI engineer. I build production AI voice
 - [My personal site](https://wglickman.com) → A three-zone portfolio combining a professional hub, a project lab, and a small game arcade, continuously evolving
 
 **Side Projects & Experiments**:
-- **Whisk** → A recipe management app in progress: recipe saving, grocery/shopping list generation, ingredient substitution, unit conversion, and other cooking tools
-- **Scout** → A live sports scoreboard app in progress, currently tracking Giants, Knicks, Mets, and Rangers scores
+- [Whisk](https://trywhisk.netlify.app/) → A full-stack recipe and kitchen management app, architected solo end-to-end: JWT auth with cloud-synced recipes and preferences, shared shopping lists with live collaboration via Server-Sent Events, 31 in-browser client-side tools (unit and file converters included), and ingredient substitution. ~35,000 lines of code, 285 automated tests, production on Netlify and Heroku.
+- **Scout (WIP)** → A live sports scoreboard app in progress, currently tracking Giants, Knicks, Mets, and Rangers scores
 
 **Currently Learning** →
 Advanced agent architectures, multi-agent orchestration, and voice AI integration patterns

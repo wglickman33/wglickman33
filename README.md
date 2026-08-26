@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Engineer • Agentic AI Engineer • UI/UX Designer</h3>
 
 <p align="center">
-Neuroscience grad turned full-stack and AI engineer. I build production AI voice and chat agents for behavioral health, and I co-founded and run the entire engineering side of a live multi-restaurant food delivery platform.
+Neuroscience grad turned full-stack and AI engineer. I build production AI voice and chat agents for behavioral health, architect solo full-stack apps from zero to deploy, and co-founded and run the entire engineering side of a live multi-restaurant food delivery platform.
 </p>
 
 <p align="center">
@@ -20,12 +20,17 @@ Neuroscience grad turned full-stack and AI engineer. I build production AI voice
 - The web app for [BG Workspace Solutions](https://bgworkspace.com) → A B2B office furniture company
 - [My personal site](https://wglickman.com) → A three-zone portfolio combining a professional hub, a project lab, and a small game arcade, continuously evolving
 
-**Side Projects & Experiments**:
-- [Whisk](https://trywhisk.netlify.app/) → A full-stack recipe and kitchen management app, architected solo end-to-end: JWT auth with cloud-synced recipes and preferences, shared shopping lists with live collaboration via Server-Sent Events, 31 in-browser client-side tools (unit and file converters included), and ingredient substitution. ~35,000 lines of code, 285 automated tests, production on Netlify and Heroku.
-- **Scout (WIP)** → A live sports scoreboard app in progress, currently tracking Giants, Knicks, Mets, and Rangers scores
+**Shipped Side Projects**
+- [Tori](https://torihome.netlify.app) → Household-shared home inventory app (sibling to Whisk): folders, tags, locations, expiry tracking, live SSE sync across members, and **Tori AI** — a Groq-powered agent with 12 tool-calling actions, bilingual EN/ES UI, ranked search with Spanish↔English query expansion, markdown chat, and swipeable item result cards. React + Vite + Zustand on Netlify; Express + Sequelize + Postgres on Heroku.
+- [Whisk](https://trywhisk.netlify.app/) → Full-stack recipe and kitchen management app, architected solo end-to-end: JWT auth with cloud-synced recipes and preferences, shared shopping lists with live collaboration via Server-Sent Events, 31 in-browser client-side tools (unit and file converters included), and ingredient substitution. ~35,000 lines of code, 285 automated tests, production on Netlify and Heroku.
+- [Scout Sports](https://scoutsports.netlify.app/) → Live sports scoreboard with a stadium jumbotron UI — Giants, Knicks, Mets, and Rangers scores via ESPN (TheSportsDB fallback), JWT auth API on Heroku, and a curated highlights endpoint. React + Vite on Netlify; Express + Prisma + Postgres on Heroku.
+
+**In Progress**
+- [Mikra AI](https://github.com/wglickman33/mikra-ai) *(WIP)* → Hebrew reading and pronunciation tutor — Phase 0 spike proving phoneme-level scoring with wav2vec2 ASR, hand-built G2P, and CTC forced alignment before building the full app
+- [Fig & Peach](https://github.com/wglickman33/figAndPeach) *(WIP)* → Custom jewelry order form for a small business — Vite + React + TypeScript on Netlify with serverless Resend email notifications (no payment flow; orders land in the owner's inbox)
 
 **Currently Learning** →
-Advanced agent architectures, multi-agent orchestration, and voice AI integration patterns
+Harmony-aligned prompt design for Groq `gpt-oss` tool-calling agents, bilingual i18n and cross-language search, phoneme-level ASR and forced alignment, advanced agent architectures, multi-agent orchestration, and voice AI integration patterns
 
 **Beyond the Code** →
 Lifelong learner, all-in New York sports fan (Giants, Knicks, Mets, Rangers), Greek mythology and Marvel enthusiast, and I play hockey whenever I can get in the rink.
@@ -67,6 +72,7 @@ I was doing neuroscience research on non-pharmacological interventions for heroi
 <h3 align="left">AI & Agent Tooling</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" alt="groq"/>
 <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="anthropic"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
 <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" alt="langfuse"/>
@@ -84,6 +90,8 @@ I was doing neuroscience research on non-pharmacological interventions for heroi
 <p align="left">
 <img src="https://img.shields.io/badge/FastAPI-2E3440?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi"/>
 <img src="https://img.shields.io/badge/Flask-2E3440?style=flat-square&logo=flask&logoColor=white" alt="flask"/>
+<img src="https://img.shields.io/badge/Prisma-2E3440?style=flat-square&logo=prisma&logoColor=white" alt="prisma"/>
+<img src="https://img.shields.io/badge/Sequelize-2E3440?style=flat-square" alt="sequelize"/>
 <img src="https://img.shields.io/badge/Stripe-2E3440?style=flat-square&logo=stripe&logoColor=white" alt="stripe"/>
 <img src="https://img.shields.io/badge/Celery-2E3440?style=flat-square&logo=celery&logoColor=white" alt="celery"/>
 <img src="https://img.shields.io/badge/Google%20Maps%20API-2E3440?style=flat-square&logo=googlemaps&logoColor=white" alt="google maps api"/>
@@ -91,6 +99,8 @@ I was doing neuroscience research on non-pharmacological interventions for heroi
 <img src="https://img.shields.io/badge/Notion-2E3440?style=flat-square&logo=notion&logoColor=white" alt="notion"/>
 <img src="https://img.shields.io/badge/Datadog-2E3440?style=flat-square&logo=datadog&logoColor=white" alt="datadog"/>
 <img src="https://img.shields.io/badge/ElevenLabs-2E3440?style=flat-square" alt="elevenlabs"/>
+<img src="https://img.shields.io/badge/i18next-2E3440?style=flat-square" alt="i18next"/>
+<img src="https://img.shields.io/badge/SSE-2E3440?style=flat-square" alt="sse"/>
 <img src="https://img.shields.io/badge/RBAC-2E3440?style=flat-square" alt="rbac"/>
 <img src="https://img.shields.io/badge/Spoonacular-2E3440?style=flat-square" alt="spoonacular"/>
 </p>

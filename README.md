@@ -16,7 +16,7 @@ Neuroscience grad turned full-stack and AI engineer. I build production AI voice
 
 **Currently Building**
 - AI voice and chat admissions agents for behavioral health treatment facilities, plus the evaluation infrastructure that proves they actually work
-- [My Kosher Delivery](https://mykosherdelivery.netlify.app) → A full-stack, multi-vendor food delivery platform serving 11 restaurant partners across the NY/NJ/Hamptons area, architected and built solo (1,500+ hours, 120,000+ lines of code)
+- [My Kosher Delivery](https://mykosherdelivery.com) → A full-stack, multi-vendor food delivery platform serving 11 restaurant partners across the NY/NJ/Hamptons area, architected and built solo (1,750+ hours, 128,000+ lines of code)
 - The web app for [BG Workspace Solutions](https://bgworkspace.com) → A B2B office furniture company
 - [My personal site](https://wglickman.com) → A three-zone portfolio combining a professional hub, a project lab, and a small game arcade, continuously evolving
 
